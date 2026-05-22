@@ -1,0 +1,57 @@
+ul li{
+  float: left; 
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #687e6b;
+}
+ul li a {
+  display: block;
+  color: #fdeee8;
+  align-content: center;
+  padding: 30px 40px;
+  text-decoration: none;
+  font-size: 43px;
+
+}
+
+ul li a:hover {
+  background-color: #dee3d6;
+  color: black;
+}
+
+/* -------------------------------------------- */
+
+.heading{
+     font-family: 'Bevan';
+  font-size: 130px;
+  text-align: center;
+  color: black;
+} 
+
+/* -------------------------------------------- */
+
+p{
+  color: black;
+  font-size: 30px;
+  font-family: 'Abril Fatface';
+  background-color: #687e6b;
+  padding: 20px;
+  margin: 30px;
+}
+/* -------------------------------------------- */
+
+
+  img { width: 300px;
+float: left;
+margin-left: 50px;
+border-radius: 10px;
+}
+
+.information {
+  margin: 20px;
+  align-content: center;
+}
+
